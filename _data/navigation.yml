@@ -6,3 +6,5 @@ main:
     url: https://statistics.terraz.ru/
   - title: "Новости"
     url: /news/
+  - title: "Карты"
+    url: https://map.terraz.ru/
