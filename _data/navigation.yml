@@ -2,9 +2,9 @@
 main:
   - title: "Гайды"
     url: /guides/
-  - title: "Статистика"
-    url: https://statistics.terraz.ru/
   - title: "Новости"
     url: /news/
+  - title: "Статистика"
+    url: https://statistics.terraz.ru/
   - title: "Карты"
     url: https://map.terraz.ru/
